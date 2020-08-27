@@ -3,6 +3,6 @@
 .idea
 application-oauth.properties
 build/
-src/test/resources/
+
 .DS_Store
 
